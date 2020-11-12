@@ -41,3 +41,10 @@ body {
 .bread-crumb {
   margin-top: -32px;
 }
+
+.tab-content {
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  padding: 20px;
+}
